@@ -1,4 +1,4 @@
-# Flood-It-Game
+# Maze Generator
 
 The goal for this  project is to create a Maze generator using Kruskal's algorithm to develop different spanning trees to generate an infinite number of random mazes, with implementing both BFS and DFS algorithms to find the most efficient way to solve the maze
 
